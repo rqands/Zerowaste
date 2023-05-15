@@ -1,0 +1,28 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50%;
+}
+
+.titulo {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 34px;
+}
+
+.link {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #D99D2A;
+}
+
+.img{
+    width: 96px;
+    height: 96px;
+    background: url(src\assets\Ok.png)
+}
+
