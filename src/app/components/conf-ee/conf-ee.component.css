@@ -31,3 +31,26 @@
     background: url(src\assets\Ok.png)
 }
 
+@media (min-width: 1024px){
+
+    .container{
+        padding-top: 25%;
+    }
+    
+    }
+    @media (min-width: 720px){
+    
+        .container{
+            padding-top: 25%;
+        }
+    
+    
+    }
+    @media (min-width: 500px){
+    
+        .container{
+            padding-top: 15%;
+        }
+    
+    
+    }
